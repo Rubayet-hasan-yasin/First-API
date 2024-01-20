@@ -30,3 +30,4 @@ G:\C#\FirstAPI\FirstAPI\obj\Debug\net8.0\refint\FirstAPI.dll
 G:\C#\FirstAPI\FirstAPI\obj\Debug\net8.0\FirstAPI.pdb
 G:\C#\FirstAPI\FirstAPI\obj\Debug\net8.0\FirstAPI.genruntimeconfig.cache
 G:\C#\FirstAPI\FirstAPI\obj\Debug\net8.0\ref\FirstAPI.dll
+G:\C#\FirstAPI\FirstAPI\obj\Debug\net8.0\FirstAPI.sourcelink.json
